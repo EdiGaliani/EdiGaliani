@@ -15,7 +15,7 @@
 -->
  
  
- <div align="center">
+ <div style="display: inline_block;">
   <a href="https://github.com/EdiGaliani/EdiGaliani">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdiGaliani&theme=dark&layout=compact&count_private=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdiGaliani&theme=dark&count_private=true&show_icons=true" />
