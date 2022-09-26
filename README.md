@@ -37,7 +37,7 @@
 
 <br/>
 <div>
- <a href="https://www.linkedin.com/in/edi-galiano-b8b51763/" target="_blank"  alt="Galiani Linkedin link"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white  />
+ <a href="https://www.linkedin.com/edi-galiano-b8b51763/" target="_blank"  alt="Galiani Linkedin link"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white  />
   <a href = "mailto:edigaliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/edi.galiano" target="_blank"  alt="Galiano Facebook link"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white  />
   <a href="https://www.instagram.com/edigaliani/" target="_blank"  alt="Galiani Instagram link"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  />
