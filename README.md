@@ -28,8 +28,8 @@
 <div style="display: inline_block;">
  <img align="center" height="30" width="40" alt="Skill html"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" height="30" width="40" alt="Skill css"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" height="30" width="40" alt="Skill nodejs"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" height="30" width="40" alt="Skill react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" height="30" width="40" alt="Skill nodejs"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" height="30" width="40" alt="Skill php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
 
